@@ -6,3 +6,24 @@
   box-sizing: border-box;
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #306844;
+}
+
+.container {
+  width: 480px;
+  height: 630px;
+  background: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 5px 30px 10px rgb(0 0 0 / 0.4);
+}
