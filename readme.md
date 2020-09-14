@@ -9,6 +9,8 @@ This is project 12 / 20.
 
 You can view a live version of the project [here](https://rperry99.github.io/form-validation/)
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 This was a really simple project. I didn't know that`input:valid` or `input:invalid` existed. It was a pretty easy way to add some basic form validation though HTML and CSS without needing JavaScript. I think form validation is a really useful thing to learn, and can be applied to so many different projects, whether it is a game website, portfolio contact form, or some kind of store. Form validation can be used in just about any project!
